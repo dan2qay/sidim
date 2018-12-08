@@ -16,18 +16,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".PictureOriginal"
-            android:label="@string/title_activity_picture_original"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name=".YourPicture"
-            android:label="@string/title_activity_your_picture"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name=".OutPutWindow"
-            android:label="@string/title_activity_out_put_window"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

@@ -1,6 +1,3 @@
 <resources>
     <string name="app_name">sidim</string>
-    <string name="title_activity_picture_original">PictureOriginal</string>
-    <string name="title_activity_your_picture">YourPicture</string>
-    <string name="title_activity_out_put_window">OutPutWindow</string>
 </resources>
